@@ -1,4 +1,4 @@
-import {consoleSomething} from "../main.js"
+import {consoleSomething} from "./main.js"
 
 const API = "8dbfe105d8f65baeb5b30d313542744e"
 const searchURL = `https://api.themoviedb.org/3/search/movie?api_key=${API}&size=1&query=`
